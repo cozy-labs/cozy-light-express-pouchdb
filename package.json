@@ -2,7 +2,7 @@
   "name": "cozy-light-express-pouchdb",
   "type": "plugin",
   "version": "0.1.0",
-  "displayName": "PouchDB REST API"
+  "displayName": "PouchDB REST API",
   "description": "Give Couch like REST API to Cozy Light databas",
   "author": "Cozy Cloud <contact@cozycloud.cc> (http://cozycloud.cc)",
   "licenses": [

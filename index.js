@@ -4,6 +4,8 @@ module.exports.configureAppServer = function(app, config, routes, callback) {
   callback();
 };
 
+module.exports.getTemplate = function() {
+  return '';
+};
 
-module.exports.getTemplate = function() {};
 module.exports.configure = function(options, config, program) {};

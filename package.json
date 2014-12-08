@@ -1,5 +1,5 @@
 {
-  "name": "cozy-light-express-pouchdb",
+  "name": "cozy-light-pouchdb-api",
   "type": "plugin",
   "version": "0.1.0",
   "displayName": "PouchDB REST API",
